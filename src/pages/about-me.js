@@ -14,7 +14,7 @@ const AboutPage = () => {
     />
 
     <p>Hello, I am Amy Hendrix, a software developer from Texas. 
-      You can contact me at hello@amyhendrix.io </p>
+      You can contact me @</p>
       </Layout>
   </main>
   )
